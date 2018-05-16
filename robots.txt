@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://i.lifelog.top/sitemap.xml
+Sitemap: https://ilifelog.github.io/sitemap.xml
