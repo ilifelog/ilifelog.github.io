@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://ilifelog.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://i.lifelog.top/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ilifelog.github.io/friends/</loc>
+    <loc>https://i.lifelog.top/friends/</loc>
     <lastmod>2018-05-14T00:20:22+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ilifelog.github.io/about/</loc>
+    <loc>https://i.lifelog.top/about/</loc>
     <lastmod>2018-05-14T00:18:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ilifelog.github.io/post/new-life-new-log/</loc>
+    <loc>https://i.lifelog.top/post/new-life-new-log/</loc>
     <lastmod>2018-05-14T00:22:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ilifelog.github.io/categories/</loc>
+    <loc>https://i.lifelog.top/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ilifelog.github.io/post/</loc>
+    <loc>https://i.lifelog.top/post/</loc>
     <lastmod>2018-05-14T00:22:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ilifelog.github.io/tags/</loc>
+    <loc>https://i.lifelog.top/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ilifelog.github.io/</loc>
+    <loc>https://i.lifelog.top/</loc>
     <lastmod>2018-05-14T00:20:22+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
