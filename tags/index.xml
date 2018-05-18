@@ -6,17 +6,80 @@
     <description>Recent content in Tags on okgo&#39;s log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 May 2018 00:22:32 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 00:22:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Github</title>
+      <link>/tags/github/</link>
+      <pubDate>Mon, 14 May 2018 00:22:00 +0800</pubDate>
+      
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Mon, 14 May 2018 00:22:00 +0800</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Log</title>
       <link>/tags/log/</link>
-      <pubDate>Mon, 14 May 2018 00:22:32 +0800</pubDate>
+      <pubDate>Fri, 18 May 2018 16:35:00 +0800</pubDate>
       
       <guid>/tags/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>/tags/netlify/</link>
+      <pubDate>Mon, 14 May 2018 00:22:00 +0800</pubDate>
+      
+      <guid>/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>不蒜子</title>
+      <link>/tags/%E4%B8%8D%E8%92%9C%E5%AD%90/</link>
+      <pubDate>Fri, 18 May 2018 16:35:00 +0800</pubDate>
+      
+      <guid>/tags/%E4%B8%8D%E8%92%9C%E5%AD%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>坑</title>
+      <link>/tags/%E5%9D%91/</link>
+      <pubDate>Fri, 18 May 2018 16:35:00 +0800</pubDate>
+      
+      <guid>/tags/%E5%9D%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日志</title>
+      <link>/tags/%E6%97%A5%E5%BF%97/</link>
+      <pubDate>Fri, 18 May 2018 16:35:00 +0800</pubDate>
+      
+      <guid>/tags/%E6%97%A5%E5%BF%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移动网</title>
+      <link>/tags/%E7%A7%BB%E5%8A%A8%E7%BD%91/</link>
+      <pubDate>Fri, 18 May 2018 16:35:00 +0800</pubDate>
+      
+      <guid>/tags/%E7%A7%BB%E5%8A%A8%E7%BD%91/</guid>
       <description></description>
     </item>
     

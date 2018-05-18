@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>okgo&#39;s log</title>
-    <link>/</link>
-    <description>Recent content on okgo&#39;s log</description>
+    <title>日志 on okgo&#39;s log</title>
+    <link>/categories/%E6%97%A5%E5%BF%97/</link>
+    <description>Recent content in 日志 on okgo&#39;s log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 May 2018 00:20:22 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 16:35:00 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>友邻</title>
-      <link>/friends/</link>
-      <pubDate>Mon, 14 May 2018 00:20:22 +0800</pubDate>
-      
-      <guid>/friends/</guid>
-      <description>朋友的小窝，欢迎去串门~ 崇宫苟道：一只咸鱼 极客信仰：有种好奇心，不断去探索新的东西 小新的博客 卞舟日记：分享生活，分享读书感悟 一头小狮子：我只</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>/about/</link>
-      <pubDate>Mon, 14 May 2018 00:18:39 +0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>关于我 本人擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps 等软件的安装与卸载，精通 HTML、CSS、JavaScript、PHP、ASP、</description>
-    </item>
     
     <item>
       <title>最近碰到的一些坑</title>
