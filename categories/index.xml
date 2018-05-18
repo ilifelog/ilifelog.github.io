@@ -10,5 +10,14 @@
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>日记</title>
+      <link>/categories/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 14 May 2018 00:22:32 +0800</pubDate>
+      
+      <guid>/categories/%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
